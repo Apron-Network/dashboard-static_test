@@ -9,7 +9,7 @@ window.config = {
                     "desc": "Instant access to the Huobi Echo Chain network with low latency and community supports."
                 },
                 {
-                    "name": "Bsc",
+                    "name": "BSC",
                     "img": "./images/Logo_Bsc_Vi_H64.svg",
                     "value": 2,
                     "imgHover": "./images/binance_logo_White.svg",
@@ -89,6 +89,10 @@ window.config = {
             {
                 date: "May 13，2021",
                 name: "We are gladly to announce that our BSC Mainnet RPC service is Live."
+            },
+            {
+                date: "May 13，2021",
+                name: "We are gladly to announce that our BSC Testnet RPC service is Live."
             },
             {
                 date: "May 13，2021",
